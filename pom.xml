@@ -8,6 +8,10 @@
   <artifactId>release-tests</artifactId>
   <version>1.0-SNAPSHOT</version>
 
+  <scm>
+    <developerConnection>scm:git:https://github.com/guymarom/release-tests.git</developerConnection>
+  </scm>
+
   <distributionManagement>
     <repository>
       <id>art_releases</id>
